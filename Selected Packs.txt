@@ -1,6 +1,50 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
+	2DSpyglass
+	AnimatedCampfireItem
+	SofterWool
+	ShorterTallGrass
+	WhiterSnow
+	ClearerWater
+	BrighterNether
+	SmootherStones
+	SmootherOakLog
+	NoCaveSounds
+	QuieterConsumables
+	QuieterPistons
+	QuieterCows
+	VisualHoney
+	DirectionalDispensersDroppers
+	MusicDiscRedstonePreview
+	Age25Kelp
+	FullAgeCropMarker
+	FullAgeAmethystMarker
+	SmallerUtilities
+	LowerFire
+	LowerShield
+	TransparentPumpkin
+	UnobtrusiveParticles
+	UnobtrusiveSnow
+	UnobtrusiveRain
+	ShortSwords
+	3DLilyPads
+	3DSculkVein
+	3DGlowLichen
+	3DVines
+	3DDoors
+	3DSugarcane
+	3DRails
+	3DLadders
+	3DStonecutters
+	PingColorIndicator
+	WitherHearts
+	SmootherFont
+	MoreCrosshairs-SmallCross
+	ColoredWidgetsGray
+	ConsolePanoramaTU70
+	BedrockDragonProjectile
+	BedrockPistonArms
 	BrighterRibTrim
 	JappaSpecIcons
 	JappaStatsIcons
@@ -24,49 +68,6 @@ Packs:
 	RedstoneWireFix
 	DripleafFixBig
 	ItemStitchingFix
-	BedrockDragonProjectile
-	BedrockPistonArms
-	ConsolePanoramaTU70
-	ColoredWidgetsGray
-	MoreCrosshairs-SmallCross
-	PingColorIndicator
-	WitherHearts
-	SmootherFont
-	3DLilyPads
-	3DSculkVein
-	3DGlowLichen
-	3DVines
-	3DDoors
-	3DSugarcane
-	3DRails
-	3DLadders
-	3DStonecutters
-	SmallerUtilities
-	LowerFire
-	LowerShield
-	TransparentPumpkin
-	UnobtrusiveParticles
-	UnobtrusiveSnow
-	UnobtrusiveRain
-	VisualHoney
-	DirectionalDispensersDroppers
-	MusicDiscRedstonePreview
-	Age25Kelp
-	FullAgeCropMarker
-	FullAgeAmethystMarker
-	QuieterCows
-	NoCaveSounds
-	QuieterConsumables
-	QuieterPistons
-	ShorterTallGrass
-	WhiterSnow
-	ClearerWater
-	BrighterNether
-	SmootherStones
-	SmootherOakLog
-	2DSpyglass
-	AnimatedCampfireItem
-	SofterWool
 	ProperBreakParticles
 	DirectionalHoppers
 	JappaObserver
