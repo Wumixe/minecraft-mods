@@ -13,7 +13,7 @@ I personally prefer Fabric, so here are the mods I use from Modrinth. They are a
 
 I like the vanilla look of the game, so I use the Vanilla Tweaks (https://vanillatweaks.net) texture pack. It's made by Xisumavoid, a member of the Hermitcraft SMP, and it's great. It lets you select tons of changes you want that improve the game's look without changing it. My configuration file is a .txt that you can just drop into the site and change how you please.
 
-You can also use the "custom-splashes" texture pack in this repo and replace the text in "splashes.txt" with whatever you like for custom splash messages in the game.
+You can also use the "custom-splashes" texture pack in this repo and replace the text in "splashes.txt" with whatever you like for custom splash messages in the game. It will say it is incompatible with this Minecraft version, but it's just a metadata thing, it will still work.
 
 That's all I do for Minecraft. I don't really like shaders, but if you do, I recommend using Iris (https://modrinth.com/mod/iris) and Complementary Reimagined (https://modrinth.com/shader/complementary-reimagined).
 
