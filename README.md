@@ -11,8 +11,10 @@ I personally prefer Fabric, so here are the mods I use from Modrinth. They are a
 - Sodium (https://modrinth.com/mod/sodium) improves rendering performance.
 - Lithium (https://modrinth.com/mod/lithium) goes hand-in-hand with Sodium and improves game logic performance.
 
-I like the vanilla look of the game, so I only use the Vanilla Tweaks (https://vanillatweaks.net) texture pack. It's made by Xisumavoid, a member of the Hermitcraft SMP, and it's great. It lets you select tons of changes you want that improve the game's look without changing it. My configuration file is a .txt that you can just drop into the site and change how you please.
+I like the vanilla look of the game, so I use the Vanilla Tweaks (https://vanillatweaks.net) texture pack. It's made by Xisumavoid, a member of the Hermitcraft SMP, and it's great. It lets you select tons of changes you want that improve the game's look without changing it. My configuration file is a .txt that you can just drop into the site and change how you please.
+
+You can also use the "custom-splashes" texture pack in this repo and replace the text in "splashes.txt" with whatever you like for custom splash messages in the game.
 
 That's all I do for Minecraft. I don't really like shaders, but if you do, I recommend using Iris (https://modrinth.com/mod/iris) and Complementary Reimagined (https://modrinth.com/shader/complementary-reimagined).
 
-Thanks for looking at my settings for goofy block game. I slapped MIT liscense on this so you can use it however you want (but I don't know why you would want this lol).
+Thanks for looking at my settings for goofy block game. I slapped MIT license on this so you can use it however you want (but I don't know why you would want this lol).
